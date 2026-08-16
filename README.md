@@ -6,6 +6,8 @@
 
 **TriggerBot Pro** is a high-performance, real-time pixel color-delta trigger automation application designed for Windows. It provides competitive gaming enhancements with sub-millisecond precision, featuring advanced counter-strafing mechanics, ultra-low-latency direct GDI hardware screen magnification, target reticle overlays, anti-recoil compensation, and fine-grained color filtering.
 
+<img width="1439" height="1079" alt="Screenshot 2026-08-17 003447" src="https://github.com/user-attachments/assets/9acec349-5436-4fb0-aa32-eda668e8979b" />
+
 ---
 
 ## 🌟 Key Features
