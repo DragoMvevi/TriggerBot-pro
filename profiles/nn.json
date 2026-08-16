@@ -1,0 +1,32 @@
+{
+    "trigger_key": "shift",
+    "action_key": "left",
+    "detection_box_size": 1,
+    "color_threshold": 77,
+    "cooldown_ms": 110,
+    "lock_to_center": true,
+    "freeze_keyboard": false,
+    "freeze_mouse": false,
+    "shots_per_detection": 1,
+    "shot_delay_ms": 104,
+    "one_shot_mode": true,
+    "anti_recoil": true,
+    "recoil_strength": 3,
+    "wasd_compensation": false,
+    "auto_strafe_stop": true,
+    "strafe_stop_delay_ms": 30,
+    "color_whitelist": null,
+    "whitelist_threshold": 64,
+    "color_blacklist": [
+        255,
+        255,
+        255
+    ],
+    "blacklist_threshold": 11,
+    "wasd_speed": {
+        "w": 2.5,
+        "s": 2.5,
+        "a": 2.5,
+        "d": 2.5
+    }
+}
